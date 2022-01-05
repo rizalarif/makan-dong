@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147706247881",
+    "project_id": "makandong",
+    "storage_bucket": "makandong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147706247881:android:fe53a7e7e647355ce36b18",
+        "android_client_info": {
+          "package_name": "com.example.makandong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147706247881-eeladaq2ce8ce5cqoie5oqrskubotc80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlDT0iJlpj_zSU_vIdCXu4pC5H22JPHyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147706247881-eeladaq2ce8ce5cqoie5oqrskubotc80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

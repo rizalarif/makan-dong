@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tugas Kuliah/Semester 5/Praktikum Pengembangan Aplikasi Mobile/UAS-FoodApp-Jidan-Ramdani-1197050057/app/src/main/res/layout/activity_main.xml" value="0.25317028985507245" />
+        <entry key="..\:/Tugas Kuliah/Semester 5/Praktikum Pengembangan Aplikasi Mobile/UAS-PPAM-FoodApp/app/src/main/res/layout/activity_detail.xml" value="0.23369565217391305" />
+        <entry key="..\:/Tugas Kuliah/Semester 5/Praktikum Pengembangan Aplikasi Mobile/UAS-PPAM-FoodApp/app/src/main/res/layout/activity_main.xml" value="0.23369565217391305" />
+        <entry key="..\:/Tugas Kuliah/Semester 5/Praktikum Pengembangan Aplikasi Mobile/UAS-PPAM-FoodApp/app/src/main/res/layout/activity_menu.xml" value="0.23369565217391305" />
+        <entry key="..\:/Tugas Kuliah/Semester 5/Praktikum Pengembangan Aplikasi Mobile/UAS-PPAM-FoodApp/app/src/main/res/layout/activity_register.xml" value="0.23369565217391305" />
+        <entry key="..\:/Tugas Kuliah/Semester 5/Praktikum Pengembangan Aplikasi Mobile/UAS-PPAM-FoodApp/app/src/main/res/layout/food_list.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/Java Computer/AndroidStudioProjects/FoodAppJidan/app/src/main/res/layout/activity_detail.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/Java Computer/AndroidStudioProjects/FoodAppJidan/app/src/main/res/layout/activity_main.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/Java Computer/AndroidStudioProjects/FoodAppJidan/app/src/main/res/layout/activity_menu.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/Java Computer/AndroidStudioProjects/FoodAppJidan/app/src/main/res/layout/activity_register.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/Java Computer/AndroidStudioProjects/FoodAppJidan/app/src/main/res/menu/menu_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Java Computer/Downloads/FoodAppJidan/app/src/main/res/layout/activity_main.xml" value="0.1947463768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.makandong">
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RizalArif">
+        <activity
+            android:name="com.example.makandong.Register"
+            android:exported="true"
+            android:label="@string/register_name"/>
+        <activity
+            android:name="com.example.makandong.DetailActivity"
+            android:exported="true"
+            android:label="@string/detail_name" />
+        <activity
+            android:name="com.example.makandong.MenuActivity"
+            android:exported="true"
+            android:label="@string/menu_name" />
+        <activity
+            android:name="com.example.makandong.MainActivity"
+            android:exported="true"
+            android:label="@string/main_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
